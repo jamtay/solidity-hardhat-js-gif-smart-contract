@@ -15,3 +15,7 @@ This Solidity smart contract sends transactions from one etherum wallet to anoth
 # Initial tutorial code
 
 - https://github.com/adrianhajdin/project_web3.0
+
+# Linked frontend webapp
+
+- https://github.com/jamtay/web3-react-tailwind-typescript-eth-client
